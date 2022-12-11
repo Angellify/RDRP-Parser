@@ -20,6 +20,10 @@ If you encounter any issues or bugs while using the parser, please don't hesitat
 
 </p>
 
+
+
+
+
 <h1>How to use:</h1>
 <p> The Parser is straight forward, just set your RedM Path to your RedM\RedM.app\logs folder. Your save path can be anywhere you want, a folder will be automatically created with the current month and inside your text log will appear with today's date. 
 The Parser gets the last modified chatlog.txt from your RedM path and parses it. A new chatlog.txt file is made each time RedM opens and closes. As long as the parser stays open it will continue writing to the same text file.</p>
