@@ -3,6 +3,8 @@
   <img width="512" height="256" src="https://user-images.githubusercontent.com/85620673/206922686-5d0de090-d904-4b29-a115-8790c47ff5fd.png">
 </p>
 
+[LATEST RELEASE](https://github.com/Angellify/RDRP-Parser/releases/tag/v1.0.0)
+
 <p>
 The first version of the Chat Parser is now available, and while it may not have all the features that users are looking for, it provides a glimpse into the exciting future of the program.
 
